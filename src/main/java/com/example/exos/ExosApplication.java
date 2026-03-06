@@ -1,13 +1,13 @@
-package com.example.exos5_10;
+package com.example.exos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Exos510Application {
+public class ExosApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(Exos510Application.class, args);
+        SpringApplication.run(ExosApplication.class, args);
     }
 
 }

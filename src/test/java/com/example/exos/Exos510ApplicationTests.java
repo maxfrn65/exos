@@ -1,4 +1,4 @@
-package com.example.exos5_10;
+package com.example.exos;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.example.exos5_10.exo6;
+package com.example.exos.exo6;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
